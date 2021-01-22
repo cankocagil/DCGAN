@@ -19,12 +19,10 @@ The dataset used for this repo is Large-scale CelebFaces Attributes (CelebA) Dat
  ![DCGAN](https://user-images.githubusercontent.com/53329652/105554380-48fbec80-5d18-11eb-80d1-6551d7e943ea.png)
  
  
- Then, discriminate the fake images and real image by convolutional binary classifier with the 
+ Then, discriminate the fake images and real image by convolutional binary classifier with the following architecture:
  
+ ![Untitled](https://user-images.githubusercontent.com/53329652/105555397-5a45f880-5d1a-11eb-87b5-e5985f709984.png)
  
- 
- Then, 
- ![Whole-net](https://user-images.githubusercontent.com/53329652/105555102-bc522e00-5d19-11eb-84fb-ffd75c0d3008.png)
- 
+
  
  
