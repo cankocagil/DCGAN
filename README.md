@@ -35,4 +35,5 @@ The dataset used for this repo is Large-scale CelebFaces Attributes (CelebA) Dat
 
 
 Reference Link:
+
 [1] https://pytorch.org/tutorials/beginner/dcgan_faces_tutorial.html
