@@ -14,13 +14,17 @@ The dataset used for this repo is Large-scale CelebFaces Attributes (CelebA) Dat
  Dataset link :  http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html
  
  
- This network consist of generator and discriminator networks. In generator model, we construct RGB images from gaussian noise by using following architecture
- 
+ This network consist of generator and discriminator networks. In generator model, we construct RGB images from gaussian noise by using following architecture 
 
  ![DCGAN](https://user-images.githubusercontent.com/53329652/105554380-48fbec80-5d18-11eb-80d1-6551d7e943ea.png)
+ 
+ 
+ Then, discriminate the fake images and real image by convolutional binary classifier with the 
  
  
  
  Then, 
  ![Whole-net](https://user-images.githubusercontent.com/53329652/105555102-bc522e00-5d19-11eb-84fb-ffd75c0d3008.png)
+ 
+ 
  
