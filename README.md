@@ -24,5 +24,7 @@ The dataset used for this repo is Large-scale CelebFaces Attributes (CelebA) Dat
  ![Untitled](https://user-images.githubusercontent.com/53329652/105555397-5a45f880-5d1a-11eb-87b5-e5985f709984.png)
  
 
+ Hence, end-to-end pipeline can be seen as:
  
+ ![gan-overview](https://user-images.githubusercontent.com/53329652/105555254-0c30f500-5d1a-11eb-9a13-d23cb7711627.png)
  
