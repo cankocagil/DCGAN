@@ -1,0 +1,4 @@
+Since the model is bigger than 25MB, it cannot be loaded into GitHub. The link for downloading .pth file is provided below.
+
+
+https://drive.google.com/file/d/1GQNQBFbM5T8MInRb10QAXtWIpwKpSfwP/view?usp=sharing
