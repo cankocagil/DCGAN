@@ -38,6 +38,9 @@ The dataset used for this repo is Large-scale CelebFaces Attributes (CelebA) Dat
  ![gan-overview](https://user-images.githubusercontent.com/53329652/105555254-0c30f500-5d1a-11eb-9a13-d23cb7711627.png)
 
 
+In models section, there is a pretrained DCGAN model that is trained with 3 epochs.
+
+
 
 Reference Link:
 
