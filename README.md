@@ -1,6 +1,6 @@
 # Deep Convolutional Generative Adversarial Network (DCGAN)
 
-This repo implements the paper Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks (https://arxiv.org/abs/1511.06434) with slightly different, is based on the PyTorch Official DCGAN tutorial (https://github.com/pytorch/examples/tree/master/dcgan. The ultimate aim of this repo is built alternative method for image augmentation for more complex visual object processing tasks such as,
+This repo implements the paper Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks (https://arxiv.org/abs/1511.06434) with slightly different, is based on the PyTorch Official DCGAN repository (https://github.com/pytorch/examples/tree/master/dcgan. The ultimate aim of this repo is built alternative method for image augmentation for more complex visual object processing tasks such as,
 
 * Facial Recognition
 * Facial Landmark Localization
