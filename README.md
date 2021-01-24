@@ -21,7 +21,7 @@ The dataset used for this repo is Large-scale CelebFaces Attributes (CelebA) Dat
  Here are some generated faces by DCGAN with 3 epochs:
  
  ![indir](https://user-images.githubusercontent.com/53329652/105556713-9ded3200-5d1b-11eb-9327-b0266c0a808c.png)
- 
+  
    
  This network consist of generator and discriminator networks. In generator model, we construct RGB images from gaussian noise by using the CNN following architecture 
 
